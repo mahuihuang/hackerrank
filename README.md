@@ -1,4 +1,4 @@
-# hckerrank
+# hackerrank
 HackerRank Problems' Solutions
 
 |Title|	Solution|Difficulty|
